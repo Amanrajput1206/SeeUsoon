@@ -6,4 +6,4 @@ I created this as my first personal project when I initially learned web develop
 ## Preview of the website
 Given below is just a preview of the website and it may lack some of the features of the original website. For complete experience I would recommend you to download the source files and run the files locally on your system.
 
-![Preview of the website](http://htmlpreview.github.io/?https://raw.githubusercontent.com/Amanrajput1206/SeeUsoon/main/index.html)
+![Preview of the website](https://github.com/Amanrajput1206/SeeUsoon/blob/main/preview.png)
