@@ -1,6 +1,6 @@
 # SeeUsoon
 This is a static HTML web page. I have used CSS for styling with bootstrap as a framework along with some favicons. 
-The page was a proposed >sign in web page for a **tracking** website.
+The page was a proposed *sign in* web page for a **tracking** website.
 I created this as my first personal project when I initially learned web development.
 
 ## Preview of the website
